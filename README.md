@@ -1,8 +1,8 @@
-# Tarea 1: Estructura HTML básica
+# Tarea-1-clase-HTML
 
 ## Descripcion del Proyecto
 
-Este proyecto fue realizado como parte de mi primera tarea en el curso de Desarrollo web Full Stack.
+Este proyecto fue realizado como parte de mi primera tarea en el curso de Desarrollo web Full Stack donde creo una estructura HTML5.
 
 ## Concigna de la tarea
 -seleccionar una tématica de interés personal.
